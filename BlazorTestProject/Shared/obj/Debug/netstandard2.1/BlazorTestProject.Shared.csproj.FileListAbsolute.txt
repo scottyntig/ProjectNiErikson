@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\bin\Debug\netstandard2.1\BlazorTestProject.Shared.deps.json
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\bin\Debug\netstandard2.1\BlazorTestProject.Shared.dll
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\bin\Debug\netstandard2.1\BlazorTestProject.Shared.pdb
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\obj\Debug\netstandard2.1\BlazorTestProject.Shared.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\obj\Debug\netstandard2.1\BlazorTestProject.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\obj\Debug\netstandard2.1\BlazorTestProject.Shared.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\obj\Debug\netstandard2.1\BlazorTestProject.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\obj\Debug\netstandard2.1\BlazorTestProject.Shared.dll
+C:\Users\User\Documents\Visual Studio 2019\ProjectNiErikson\BlazorTestProject\Shared\obj\Debug\netstandard2.1\BlazorTestProject.Shared.pdb
